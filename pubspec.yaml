@@ -24,6 +24,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
 
+  # BLoC - https://bloclibrary.dev/#/whybloc
+  bloc: ^4.0.0
+  flutter_bloc: ^4.0.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
