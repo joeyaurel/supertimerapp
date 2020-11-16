@@ -1,4 +1,6 @@
-# Super-Timer-App
+<img src="supertimerlogo.png" width="65%">
 
-Meditation and power napping timer.
+# Super timer App
+
+Pomodoro, meditation and power napping timer.
 
